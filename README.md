@@ -5,7 +5,7 @@
  To crete this project, do the following.
 
 ### Download GitHub repo
-git clone https://github.com/IqraMahmood/BI_App
+git clone https://github.com/IqraMahmood/StockPrediction
 or
 Download zip file
 
